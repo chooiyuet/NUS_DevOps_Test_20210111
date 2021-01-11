@@ -11,4 +11,5 @@ Some more dummy text. 25 minutes until lunch!
 * docker - if time permits
 * hand out reading assignments and homework
 
-![](paddy_fields.jpeg)
+![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
+
