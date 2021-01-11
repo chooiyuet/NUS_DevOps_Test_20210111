@@ -10,3 +10,5 @@ Some more dummy text. 25 minutes until lunch!
 * cloud with Gilbert
 * docker - if time permits
 * hand out reading assignments and homework
+
+![](paddy_fields.jpeg)
