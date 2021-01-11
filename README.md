@@ -1,2 +1,11 @@
-# NUS_DevOps_Test_20210111
-This is a test project to start github
+# This is a test repository
+
+## this text is somehow smaller
+
+Some more dummy text. 25 minutes until lunch!
+
+## Here is a list of things we will do later today:
+
+* more git
+* cloud with Gilbert
+* docker - if time permits
