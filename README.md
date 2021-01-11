@@ -13,4 +13,4 @@ Some more dummy text. 25 minutes until lunch!
 
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
 
-![] (paddy_fields.jpg)
+![](paddy_fields.jpg)
